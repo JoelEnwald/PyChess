@@ -1,1 +1,1 @@
-#PyChess
+This is a self-learning interpretable Chess AI based on a probabilistic model and naive bayes assumptions. The AI plays against itself, and through reinforcement learning, masters the game (in theory :P).
